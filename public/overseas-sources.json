@@ -152,14 +152,6 @@
   "priority": 44
  },
  {
-  "id": "maotai",
-  "name": "茅台资源",
-  "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
-  "group": "normal",
-  "enabled": true,
-  "priority": 48
- },
- {
   "id": "subo",
   "name": "速博资源",
   "baseUrl": "https://subocaiji.com/api.php/provide/vod",
